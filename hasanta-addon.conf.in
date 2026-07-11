@@ -1,0 +1,8 @@
+[Addon]
+Name=hasanta
+Category=InputMethod
+Type=SharedLibrary
+OnDemand=True
+Configurable=False
+Library=hasanta
+Version=@PROJECT_VERSION@
